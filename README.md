@@ -1,1 +1,1 @@
-This file contains my first github project
+This file is my new github project
